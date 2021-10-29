@@ -13,7 +13,7 @@
 1. All the Machine Learning models are in ml_algos_regression.ipynn
 2. bert.ipynb contains model with BERT sentence embedding
 
-In this research, we emphasise reviewed research papers and present results from experimental studies to see how well an NLP model can replicate existing peer reviewer confidence scores prediction. To accomplish so, we used a collection of submitted papers at the ICLR conference from the years 2018, 2019 and 2021, to train the framed architecture.
+In this research, we emphasise reviewed research papers and present results from experimental studies to see how well an state of art model can replicate existing peer reviewer confidence scores prediction. To accomplish so, we used a collection of submitted reviews at the ICLR conference from the years 2018, 2019 and 2021, to train the framed architecture.
 
 Interestingly, the proposed architecture was often able to predict the peer review confidence score reached as a result of human reviewers confidence score, even when only using simple but effective methods to perform the training. To put it another way, there was a strong link between contextual representation, comprehensibility, and confidence scores and the overall evaluation of the review process. This link between confidence measures is intriguing and warrants more research. 
 
